@@ -44,7 +44,10 @@ Expected result: BUILD SUCCESS
 
 mvn test -Dtest=GitHubApiTest
 
-Expected result: 
-Total open issues: <number>
-Highest-rated repo: <repository-name>
+Expected result:
+
+Total open issues: 1461
+
+Highest-rated repo: selenium (33827 stars)
+
 BUILD SUCCESS
