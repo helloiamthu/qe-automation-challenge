@@ -1,7 +1,0 @@
-ui\pages\DashboardPage.class
-test\java\api\GitHubApiTest.class
-ui\pages\UserManagementPage.class
-ui\steps\UserManagementSteps.class
-ui\base\BaseTest.class
-ui\runner\UITestRunner.class
-ui\pages\LoginPage.class
