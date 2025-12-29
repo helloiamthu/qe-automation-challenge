@@ -25,7 +25,9 @@ It covers both UI Automation Testing and API Automation Testing.
 ## Setup
 
 git clone https://github.com/helloiamthu/qe-automation-challenge.git
+
 cd qe-automation-challenge
+
 mvn clean install
 
 ---
